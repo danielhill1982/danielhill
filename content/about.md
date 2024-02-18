@@ -6,7 +6,7 @@ date: ''
 
 [< Back](/)
 
-# About Me
+# About
 
 I'm a photo shooter, story teller, design creator, software developer and game player, music listener, bike cycler, train passenger and apartment rentener from europe based in germany, thuringia.
 

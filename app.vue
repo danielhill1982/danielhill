@@ -19,17 +19,18 @@
 
 <style>
 body {
-  background-color: black;
-  color: yellow;
+  font-weight: bold;
+  background-color: ivory;
+  color: red;
   max-width: 40rem;
 }
 
 a {
-  color: skyblue;
+  color: red;
 }
 
 a:hover {
-  color: yellow;
+  text-decoration: none;
 }
 
 .page-enter-active,

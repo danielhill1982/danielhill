@@ -6,7 +6,7 @@ date: ''
 
 [Service](/service)
 
-[About Me](/about)
+[About](/about)
 
 [Resume](/resume)
 
