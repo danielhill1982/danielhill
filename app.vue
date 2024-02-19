@@ -1,10 +1,10 @@
 <template>
-  <div>
+  <div style="max-width:600px; margin-left:auto; margin-right: auto;">
     <header>
       <p>dhill.dev - Intuitive Web Solutions</p>
       <p>Consulting and Conception, <br>Logo and UI/UX Design, <br>Software Development</p>
       <div>
-        <svg xmlns="http://www.w3.org/2000/svg" width="400px" height="100px">
+        <svg xmlns="http://www.w3.org/2000/svg" width="300px" height="100px">
           <defs>
             <pattern id="pattern_lGu2D" patternUnits="userSpaceOnUse" width="16" height="16"
               patternTransform="rotate(45)">
@@ -22,7 +22,7 @@
     </main>
     <footer>
       <div>
-        <svg xmlns="http://www.w3.org/2000/svg" width="400px" height="35px">
+        <svg xmlns="http://www.w3.org/2000/svg" width="300px" height="35px">
           <defs>
             <pattern id="pattern_lGu2D" patternUnits="userSpaceOnUse" width="16" height="16"
               patternTransform="rotate(45)">
@@ -46,7 +46,6 @@ body {
   font-weight: bold;
   background-color: floralwhite;
   color: red;
-  max-width: 600px;
 }
 
 a {
