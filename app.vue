@@ -21,6 +21,7 @@
           <p>----</p>
       <p>Copyright © 2024 - dhill.dev</p>
       <p>Made with: Nuxt</p>
+      <div style="text-align: right;"><img src="/arrow.png" width="50px" height="50px" alt="" title="" /></div>
     </footer>
   </div>
 </template>
