@@ -4,8 +4,6 @@ description: 'Discover the world of Daniel Hill’s design solutions. Offering c
 date: ''
 ---
 
-[< Back](/)
-
 # Service
 
 Offering a comprehensive suite of design services to bring your vision to life.

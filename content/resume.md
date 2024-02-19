@@ -4,8 +4,6 @@ description: 'Discover the world of Daniel Hill’s design solutions. Offering c
 date: ''
 ---
 
-[< Back](/)
-
 # Resume
 
 I am looking for projects to successfully implement my extensive knowledge and long experience in web design.

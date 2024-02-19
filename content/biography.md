@@ -4,8 +4,6 @@ description: 'Discover the world of Daniel Hill’s design solutions. Offering c
 date: ''
 ---
 
-[< Back](/)
-
 # Biography
 
 Daniel was born in Suhl in 1982. He grew up in Altendambach and then in Ehrenberg. This included ten years of school, culminating in a secondary school diploma in 1999 in Thuringia, and vocational training in “Media Design” until 2009. Daniel has a younger brother and a niece. His parents are from Altendambach and Bischofrod in Thuringia. Daniel Hill is also fondly called “Schwuppi”, “Gohang Nadamidai”, and “Faultier Slothy”.

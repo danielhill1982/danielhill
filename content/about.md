@@ -4,8 +4,6 @@ description: 'Discover the world of Daniel Hill’s design solutions. Offering c
 date: ''
 ---
 
-[< Back](/)
-
 # About
 
 I'm a photo shooter, story teller, design creator, software developer and game player, music listener, bike cycler, train passenger and apartment rentener from europe based in germany, thuringia.
