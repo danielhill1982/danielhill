@@ -3,16 +3,8 @@
     <header>
       <p>dhill.dev - Intuitive Web Solutions</p>
       <p>Consulting and Conception, <br>Logo and UI/UX Design, <br>Software Development</p>
-      <div>
-        <svg xmlns="http://www.w3.org/2000/svg" width="300px" height="100px">
-          <defs>
-            <pattern id="pattern_lGu2D" patternUnits="userSpaceOnUse" width="16" height="16"
-              patternTransform="rotate(45)">
-              <line x1="0" y="0" x2="0" y2="16" stroke="#FF0000" stroke-width="16" />
-            </pattern>
-          </defs>
-          <rect width="100%" height="100%" fill="url(#pattern_lGu2D)" :opacity="1" />
-        </svg>
+      <div class="stripes" style="width:300px; height: 100px;">
+        
       </div>
     </header>
     <main>
@@ -21,16 +13,8 @@
       </div>
     </main>
     <footer>
-      <div>
-        <svg xmlns="http://www.w3.org/2000/svg" width="300px" height="35px">
-          <defs>
-            <pattern id="pattern_lGu2D" patternUnits="userSpaceOnUse" width="16" height="16"
-              patternTransform="rotate(45)">
-              <line x1="0" y="0" x2="0" y2="16" stroke="#FF0000" stroke-width="16" />
-            </pattern>
-          </defs>
-          <rect width="100%" height="100%" fill="url(#pattern_lGu2D)" :opacity="1" />
-        </svg>
+      <div class="stripes" style="width:300px; height: 30px;">
+        
       </div>
       <p>If you are interested or just have questions, <br>send me an <a href="mailto:mail@dhill.dev"
           title="Write An Email">email to mail@dhill.dev</a></p>
@@ -80,4 +64,24 @@ a:hover {
     conic-gradient(from 90deg  at top    var(--b) left  var(--b),var(--_g)) 0    0    / var(--_p),
     conic-gradient(from -90deg at bottom var(--b) right var(--b),var(--_g)) 100% 100% / var(--_p);
 }
+
+.stripes {
+  background-image: 
+    repeating-linear-gradient(
+      -45deg, 
+      transparent, 
+      transparent 0.5rem,
+      red 0.5rem,
+      red 1rem
+    );
+  background-size: 400% 400%;
+  animation: barberpole 20s linear infinite;
+}
+
+@keyframes barberpole {
+  100% {
+    background-position: 100% 100%;
+  }
+}
+
 </style>
