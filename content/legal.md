@@ -10,11 +10,11 @@ date: ''
 
 ### Service Provider:
 
-Daniel Hill, Cuno-Hoffmeister-Straße 18, 96515 Sonneberg / Deutschland 
+Daniel Hill, Cuno-Hoffmeister-Straße 18, 96515 Sonneberg / Germany 
 
 ### Contact Information:
 
-E-Mail-Adresse: mail@dhill.dev
+Email: mail@dhill.dev
 
 ### Liability and Intellectual Property Rights Notice:
 
@@ -26,9 +26,9 @@ Date: January 4, 2024
 
 ### Responsible Party: 
 
-Daniel Hill, Cuno-Hoffmeister-Straße 18, 96515 Sonneberg / Deutschland
+Daniel Hill, Cuno-Hoffmeister-Straße 18, 96515 Sonneberg / Germany
 
-E-Mail-Adresse: mail@dhill.dev
+Email: mail@dhill.dev
 
 ### Overview of Processing:
 
