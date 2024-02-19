@@ -12,4 +12,6 @@ I'm a photo shooter, story teller, design creator, software developer and game p
 
 I was improving my computer knowledge since 1999 as a media designer, specialized in nonprint-design and world wide web. While working and sharing with software developers, I learned how to implement brand websites independently.
 
-Languages: German, English
+### Languages: 
+
+German, English

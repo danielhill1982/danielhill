@@ -26,23 +26,23 @@ I am a passionated but pensionated media designer because my health is not 100%.
 
 I look forward to your comments, criticism, or questions.
 
-Kind regards, Daniel Hill
+### Public Online Profiles
 
-- [ dhill.dev ](https://dhill.dev/)
+[ dhill.dev ](https://dhill.dev/)
 
-- [ codepen ](https://codepen.io/danielhill1982)
+[ codepen ](https://codepen.io/danielhill1982)
 
-- [ discord ](https://discord.gg/qSYNdQvrk9)
+[ discord ](https://discord.gg/qSYNdQvrk9)
 
-- [ facebook ](https://facebook.com/danielhill1982)
+[ facebook ](https://facebook.com/danielhill1982)
 
-- [ github ](http://github.com/danielhill1982)
+[ github ](http://github.com/danielhill1982)
 
-- [ good old games ](https://gog.com/u/schwuppi1982)
+[ good old games ](https://gog.com/u/schwuppi1982)
 
-- [ steam ](https://steamcommunity.com/id/danielhill1982/)
+[ steam ](https://steamcommunity.com/id/danielhill1982/)
 
-- [ telegram ](https://t.me/danielhill1982)
+[ telegram ](https://t.me/danielhill1982)
 
-- [ paypal ](http://paypal.com/paypalme/danielhill1982)
+[ paypal ](http://paypal.com/paypalme/danielhill1982)
 

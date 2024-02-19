@@ -12,9 +12,7 @@ date: ''
 
 ### Service Provider:
 
-Daniel Hill
-Cuno-Hoffmeister-Straße 18
-96515 Sonneberg / Deutschland
+Daniel Hill, Cuno-Hoffmeister-Straße 18, 96515 Sonneberg / Deutschland 
 
 ### Contact Information:
 
@@ -27,7 +25,11 @@ All content displayed on this website, such as texts, photographs, graphics, bra
 ## Privacy Policy
 
 Date: January 4, 2024
-Responsible Party: Daniel Hill, Cuno-Hoffmeister-Straße 18, 96515 Sonneberg / Deutschland
+
+### Responsible Party: 
+
+Daniel Hill, Cuno-Hoffmeister-Straße 18, 96515 Sonneberg / Deutschland
+
 E-Mail-Adresse: mail@dhill.dev
 
 ### Overview of Processing:
