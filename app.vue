@@ -1,19 +1,16 @@
 <template>
-    
-  <div style="max-width:600px; margin-left:auto; margin-right: auto;">
-    <NuxtParticles    
-   id="tsparticles"    
-   :options="options"    
-   @load="onLoad"  /> 
-    <div id="cursor-follow">
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
+  <NuxtParticles id="tsparticles" :options="options" @load="onLoad" />
+  <div id="cursor-follow">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <div style="max-width:720px; margin-left:auto; margin-right: auto;">
+
     <header>
       <p style="text-align: right;">-</p>
       <div class="text-wrapper">
@@ -38,7 +35,7 @@
         </svg>
       </h3>
 
-      <div class="stripes" style="width:300px; height: 100px;">
+      <div class="stripes" style="width:310px; height: 100px;">
 
       </div>
     </header>
@@ -57,7 +54,7 @@
             clip-rule="evenodd" />
         </svg>
       </div>
-      <div class="stripes" style="width:300px; height: 30px; margin-bottom: 25px; margin-top: 25px;">
+      <div class="stripes" style="width:310px; height: 60px;">
 
       </div>
       <p style="text-align: right;">-</p>
@@ -107,7 +104,6 @@
       <p style="text-align: right;">-</p>
     </footer>
   </div>
-
 </template>
 
 <script setup lang="ts">
@@ -201,32 +197,34 @@ onMounted(() => {
 
 
 import type { Container } from 'tsparticles-engine'
-const options = {  
-  fullScreen: {    
-    enable: true,    
-    zIndex: -1  
+const options = {
+  fullScreen: {
+    enable: true,
+    zIndex: -1
   },
-  background: {    
-    color: {      
-      value: '#0A0F0F'    
+  background: {
+    color: {
+      value: '#0A0F0F'
     }
   },
-  particles: {    
-    color: {      
-      value: "#6EC332"    
-    },    
-    links: {      
-      color: "#EBFFE6",      
-      enable: true    
-    },    
-    move: {      
-      enable: true    
-    },    
-    number: {      
-      value: 75   
-    }  }}
-    
-    const onLoad = (container: Container) => { container.pause(); setTimeout(() => container.play(), 1000) }
+  particles: {
+    color: {
+      value: "#6EC332"
+    },
+    links: {
+      color: "#EBFFE6",
+      enable: true
+    },
+    move: {
+      enable: true
+    },
+    number: {
+      value: 75
+    }
+  }
+}
+
+const onLoad = (container: Container) => { container.pause(); setTimeout(() => container.play(), 1000) }
 </script>
 
 <style type="text/css">
@@ -280,7 +278,7 @@ a:hover {
       transparent 0.5rem,
       #6EC332 0.5rem,
       #6EC332 1rem);
-  background-size: 600% 300%;
+  background-size: 400% 400%;
   animation: barberpole 20s linear infinite;
 }
 
@@ -292,12 +290,12 @@ a:hover {
 
 #cursor-follow>span {
   position: fixed;
-  top: 20px;
-  left: 20px;
+  top: 25px;
+  left: 25px;
   background-color: #6EC332;
   transform: translate(-50%, -50%);
-  width: 12px;
-  height: 12px;
+  width: 6px;
+  height: 6px;
   border-radius: 6px;
   pointer-events: none;
   user-select: none;
