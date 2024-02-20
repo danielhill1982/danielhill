@@ -35,9 +35,9 @@
         </svg>
       </h3>
 
-      <div class="stripes" style="width:310px; height: 100px;">
+      <canvas class="stripes" style="width:310px; height: 100px;">
 
-      </div>
+      </canvas>
     </header>
     <main>
       <div class="cornerbox move">
@@ -46,17 +46,17 @@
       </div>
     </main>
     <footer>
-      <div style="text-align: right;">
-        <NuxtLink to="/">Back</NuxtLink> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-          width="20" height="20">
+      <div style="text-align: right; margin-bottom: 20px;">
+        <NuxtLink to="/" alt="" title="">Back</NuxtLink> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
+          fill="currentColor" width="20" height="20">
           <path fill-rule="evenodd"
             d="M7.793 2.232a.75.75 0 0 1-.025 1.06L3.622 7.25h10.003a5.375 5.375 0 0 1 0 10.75H10.75a.75.75 0 0 1 0-1.5h2.875a3.875 3.875 0 0 0 0-7.75H3.622l4.146 3.957a.75.75 0 0 1-1.036 1.085l-5.5-5.25a.75.75 0 0 1 0-1.085l5.5-5.25a.75.75 0 0 1 1.06.025Z"
             clip-rule="evenodd" />
         </svg>
       </div>
-      <div class="stripes" style="width:310px; height: 60px;">
+      <canvas class="stripes" style="width:310px; height: 60px;">
 
-      </div>
+      </canvas>
       <p style="text-align: right;">-</p>
       <div>
         <img src="/danielhill.jpg" width="200px" height="200px" alt="" title="" style="border-radius: 9999px;" />
@@ -96,7 +96,7 @@
           <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
         </svg>
 
-        Made with <NuxtLink to="https://nuxt.com" target="_blank">Nuxt</NuxtLink>
+        Made with <NuxtLink to="https://nuxt.com" target="_blank" alt="" title="">Nuxt</NuxtLink>
       </p>
       <p style="text-align: right;">-</p>
       <p style="text-align: right;">-</p>
@@ -194,8 +194,6 @@ onMounted(() => {
 
 });
 
-
-
 import type { Container } from 'tsparticles-engine'
 const options = {
   fullScreen: {
@@ -219,15 +217,20 @@ const options = {
       enable: true
     },
     number: {
-      value: 75
+      value: 40
     }
   }
 }
 
-const onLoad = (container: Container) => { container.pause(); setTimeout(() => container.play(), 1000) }
+const onLoad = (container: Container) => {
+  container.pause();
+  setTimeout(() => container.play(), 0)
+}
+
 </script>
 
 <style type="text/css">
+
 body {
   font-family: monospace, 'Courier New', Courier;
   background-color: #0A0F0F;
@@ -301,4 +304,5 @@ a:hover {
   user-select: none;
   backdrop-filter: invert(100%);
 }
+
 </style>
