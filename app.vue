@@ -1,5 +1,10 @@
 <template>
+    
   <div style="max-width:600px; margin-left:auto; margin-right: auto;">
+    <NuxtParticles    
+   id="tsparticles"    
+   :options="options"    
+   @load="onLoad"  /> 
     <div id="cursor-follow">
       <span></span>
       <span></span>
@@ -67,23 +72,23 @@
         </svg> <a href="mailto:mail@dhill.dev" title="Write An Email">mail@dhill.dev</a></p>
       <p style="text-align: right;">-</p>
       <p style="text-align: right;">-</p>
-      <p class="hero-text"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
+      <h3 class="hero-text"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
           stroke="currentColor" width="20" height="20">
           <path stroke-linecap="round" stroke-linejoin="round"
             d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 0 1 .865-.501 48.172 48.172 0 0 0 3.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" />
         </svg>
-        Consulting and Conception</p>
-      <p class="hero-text"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
+        Consulting and Conception</h3>
+      <h3 class="hero-text"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
           stroke="currentColor" width="20" height="20">
           <path strokeLinecap="round" strokeLinejoin="round"
             d="M15.042 21.672 13.684 16.6m0 0-2.51 2.225.569-9.47 5.227 7.917-3.286-.672Zm-7.518-.267A8.25 8.25 0 1 1 20.25 10.5M8.288 14.212A5.25 5.25 0 1 1 17.25 10.5" />
         </svg>
-        Logo and UI/UX Design</p>
-      <p class="hero-text"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
+        Logo and UI/UX Design</h3>
+      <h3 class="hero-text"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
           stroke="currentColor" width="20" height="20">
           <path stroke-linecap="round" stroke-linejoin="round"
             d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5" />
-        </svg> Software Development</p>
+        </svg> Software Development</h3>
       <p style="text-align: right;">-</p>
       <p style="text-align: right;">-</p>
       <p>Copyright © 2024 dhill.dev</p>
@@ -193,6 +198,35 @@ onMounted(() => {
 
 });
 
+
+
+import type { Container } from 'tsparticles-engine'
+const options = {  
+  fullScreen: {    
+    enable: true,    
+    zIndex: -1  
+  },
+  background: {    
+    color: {      
+      value: '#0A0F0F'    
+    }
+  },
+  particles: {    
+    color: {      
+      value: "#6EC332"    
+    },    
+    links: {      
+      color: "#EBFFE6",      
+      enable: true    
+    },    
+    move: {      
+      enable: true    
+    },    
+    number: {      
+      value: 75   
+    }  }}
+    
+    const onLoad = (container: Container) => { container.pause(); setTimeout(() => container.play(), 1000) }
 </script>
 
 <style type="text/css">
