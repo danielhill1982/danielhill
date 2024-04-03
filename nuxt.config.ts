@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+<<<<<<< HEAD
   devtools: { enabled: true },
   modules: [
     '@nuxt/content',
@@ -15,4 +16,7 @@ export default defineNuxtConfig({
   }
 
   
+=======
+  devtools: { enabled: true }
+>>>>>>> b27b08c (bla)
 })

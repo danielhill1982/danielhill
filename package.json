@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@nuxt/content": "^2.12.0",
     "gsap": "^3.12.5",
     "nuxt-particles": "^0.3.0",
@@ -18,5 +19,10 @@
   },
   "devDependencies": {
     "nuxt": "^3.11.2"
+=======
+    "nuxt": "^3.11.1",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+>>>>>>> b27b08c (bla)
   }
 }
