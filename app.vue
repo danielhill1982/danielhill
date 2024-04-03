@@ -335,6 +335,6 @@ body, html {
 
 <template>
     <div>
-      <p>Here comes a new personal website soon.</p>
+      
     </div>
 </template> 
