@@ -380,10 +380,22 @@ body {
   margin-left: 0;
 }
 
+<<<<<<< HEAD
 .text {
   padding: 2rem;
   font-family: monospace, 'Courier New', Courier;
   font-weight: bold;
+=======
+.hero-overlay {
+  background: url("https://picsum.photos/3840/2160?random");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  position: absolute;
+  z-index:100;
+  inset:0;
+>>>>>>> 7327178 (bla)
 }
 
 <<<<<<< HEAD
@@ -421,7 +433,7 @@ body {
 }
 
 #hero-overlay-line {
-  background:#fff;
+  background:black;
 }
 
 .visi {
