@@ -127,9 +127,9 @@ onMounted(() => {
   gsap.registerPlugin(TextPlugin);
   gsap.from(".text-wrapper p", {
     text: ".",
-    duration: 2.5,
+    duration: 5,
     ease: 'none',
-    yoyo: true
+    delay: 1
   });
 
   gsap.to(".floating-element", {
