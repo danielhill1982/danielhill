@@ -14,7 +14,7 @@ Daniel Hill, Cuno-Hoffmeister-Straße 18, 96515 Sonneberg / Germany
 
 ### Contact Information:
 
-Email: mail@dhill.dev
+Email: danielhill@tutamail.com
 
 ### Liability and Intellectual Property Rights Notice:
 
@@ -28,7 +28,7 @@ Date: January 4, 2024
 
 Daniel Hill, Cuno-Hoffmeister-Straße 18, 96515 Sonneberg / Germany
 
-Email: mail@dhill.dev
+Email: danielhill@tutamail.com
 
 ### Overview of Processing:
 
