@@ -128,7 +128,8 @@ onMounted(() => {
   gsap.from(".text-wrapper p", {
     text: ".",
     duration: 2.5,
-    ease: 'none'
+    ease: 'none',
+    yoyo: true
   });
 
   gsap.to(".floating-element", {
