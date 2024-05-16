@@ -88,7 +88,7 @@
         </svg> Software Development</h3>
       <p style="text-align: right;">-</p>
       <p style="text-align: right;">-</p>
-      <p>Copyright © 2024 danielhill.vercel.app</p>
+      <p>Copyright © 2024 Daniel Hill</p>
       <p><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
           width="20" height="20">
           <path stroke-linecap="round" stroke-linejoin="round"
