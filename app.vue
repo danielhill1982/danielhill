@@ -14,7 +14,7 @@
     <header>
       <p style="text-align: right;">-</p>
       <div class="text-wrapper">
-        <p style="text-align: right;">dhill.dev</p>
+        <p style="text-align: right;">danielhill.vercel.app</p>
       </div>
       <div style="display:flex;">
         <div style="height:30px; width: 20px; transform: skewX(45deg); margin: 3px;" class="huebox"></div>
@@ -88,7 +88,7 @@
         </svg> Software Development</h3>
       <p style="text-align: right;">-</p>
       <p style="text-align: right;">-</p>
-      <p>Copyright © 2024 dhill.dev</p>
+      <p>Copyright © 2024 danielhill.vercel.app</p>
       <p><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
           width="20" height="20">
           <path stroke-linecap="round" stroke-linejoin="round"

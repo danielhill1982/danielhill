@@ -14,7 +14,7 @@ This is my homepage. I have published several private websites since starting my
 
 This page is designed, created, and programmed using open-source software on a Windows computer in Europe and Germany.
 
-Programmed with Visual Studio Code under Windows 11 Professional on a gaming PC. I used the CSS framework Tailwindcss with PrelineUI in Nuxt and Node.js, a cross-platform open-source JavaScript runtime environment here.
+Programmed with Visual Studio Code under Windows 11 Professional on a gaming PC. I used the Green Sock Animation Platform with Nuxt Content in Node.js, a cross-platform open-source JavaScript runtime environment here.
 
 However, the design and code of this website are not available for sale or reuse, without permission and without mentioning my name.
 
@@ -26,23 +26,17 @@ I look forward to your comments, criticism, or questions.
 
 ## Public Online Profiles
 
-[ dhill.dev ](https://dhill.dev/)
-
 [ codepen ](https://codepen.io/danielhill1982)
 
 [ vercel ](https://danielhill.vercel.app)
 
 [ discord ](https://discord.gg/qSYNdQvrk9)
 
-[ facebook ](https://facebook.com/danielhill1982)
-
 [ github ](http://github.com/danielhill1982)
 
 [ good old games ](https://gog.com/u/schwuppi1982)
 
 [ steam ](https://steamcommunity.com/id/danielhill1982/)
-
-[ telegram ](https://t.me/danielhill1982)
 
 [ paypal ](http://paypal.com/paypalme/danielhill1982)
 

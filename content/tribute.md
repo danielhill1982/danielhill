@@ -22,6 +22,7 @@ date: ''
 - Turn 10 Studios
 - Ubisoft
 - User Benchmark
+- Cinebench
 - ...
 
 ## Hardware
@@ -82,19 +83,19 @@ date: ''
 - Bootstrap
 - Discord
 - Figma
-- Filezilla
 - Green Sock
 - Hugo
-- Midjourney
 - Nextcloud
 - Node.js
 - Nuxt
 - OpenAI
 - PrelineUI
+- Proton
 - Mp3tag
 - Supabase
 - Tailwindcss
 - Veeam
+- Vercel
 - Visualstudio Code
 - Windows 11
 - Wordpress
@@ -109,13 +110,10 @@ date: ''
 - Creative Commons
 - DHL
 - Design Made In Germany
-- Designer In Action
 - Deutsche Bahn
 - Deutsche Post
 - Deutsche Rentenversicherung
 - Edeka
-- Febas
-- Hostinger
 - Landkreis Sonneberg
 - Likra
 - Microsoft

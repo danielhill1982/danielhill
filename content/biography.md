@@ -6,9 +6,9 @@ date: ''
 
 # Biography
 
-Daniel was born in Suhl in 1982. He grew up in Altendambach and then in Ehrenberg. This included ten years of school, culminating in a secondary school diploma in 1999 in Thuringia, and vocational training in “Media Design” until 2009. Daniel has a younger brother and a niece. His parents are from Altendambach and Bischofrod in Thuringia. Daniel Hill is also fondly called “Schwuppi”, “Gohang Nadamidai”, and “Faultier Slothy”.
+Daniel was born in Suhl in 1982. He grew up in Altendambach and then in Ehrenberg. This included ten years of school, culminating in a secondary school diploma in 1999 in Thuringia, and vocational training in “Media Design” until 2009. Daniel has a younger brother and a niece. His parents are from Altendambach and Bischofrod in Thuringia.
 
-Daniel is 179 cm tall, has dark hair, green eyes, tattoos, and weighs 87 kilograms. His hobbies include sports activities such as “Swimming”, “Mountain Bike – Crosscountry Cycling”, and “Badminton”, as well as “PC-Gaming”, where he mostly plays auto-motorsport. He also enjoys blockbuster games like “Witcher” and “Tomb Raider”, and shooters from “Destiny” to “Far Cry”.
+Daniel is 179 cm tall, has dark hair, green eyes, tattoos, and weighs 95 kilograms. His hobbies include sports activities such as “Swimming”, “Mountain Bike – Crosscountry Cycling”, and “Badminton”, as well as “PC-Gaming”, where he mostly plays auto-motorsport. He also enjoys blockbuster games like “Witcher” and “Tomb Raider”, and shooters from “Destiny” to “Far Cry”.
 
 Musically, he primarily enjoys playing groovy electronic techno music, but also listens to classic retro songs, chill-out, and a little folk music. In his youth, he spent a lot of time partying with friends and celebrated in clubs throughout Germany. However, he has remained single since that time and has no children.
 
