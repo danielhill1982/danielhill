@@ -10,7 +10,7 @@ date: ''
 
 - Asus TUF
 - Bandai Namco
-- Far Cry 6
+- Far Cry
 - Forza
 - Gainward
 - Geforce
@@ -68,10 +68,7 @@ date: ''
 
 ## Sociale Netze
 
-- Codepen
-- Facebook
 - Flickr
-- Github
 - Unsplash
 - Youtube
 - ...
@@ -80,21 +77,17 @@ date: ''
 
 - Adobe
 - Bitwarden
-- Bootstrap
+- Codepen
 - Discord
 - Figma
-- Green Sock
-- Hugo
-- Nextcloud
+- Github
+- Gsap
 - Node.js
 - Nuxt
 - OpenAI
 - PrelineUI
-- Proton
 - Mp3tag
-- Supabase
 - Tailwindcss
-- Veeam
 - Vercel
 - Visualstudio Code
 - Windows 11
