@@ -202,7 +202,7 @@ import type { Container } from '@tsparticles/engine'
 const options = {
   fullScreen: {
     enable: true,
-    zIndex: -50
+    zIndex: -1
   },
   background: {
     color: {
@@ -228,7 +228,7 @@ const options = {
 
 const onLoad = (container: Container) => {
   container.pause();
-  setTimeout(() => container.play(), 2000)
+  setTimeout(() => container.play(), 0)
 }
 
 </script>
