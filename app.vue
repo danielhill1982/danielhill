@@ -1,5 +1,7 @@
 <template>
-  <NuxtParticles id="tsparticles" :options="options" @load="onLoad" />
+
+<NuxtParticles id="tsparticles" :options="options" @load="onLoad" />
+  
   <div id="cursor-follow">
     <span></span>
     <span></span>
@@ -9,6 +11,7 @@
     <span></span>
     <span></span>
   </div>
+
   <div style="max-width:720px; margin-left:auto; margin-right: auto;">
 
     <header>
@@ -195,11 +198,11 @@ onMounted(() => {
 
 });
 
-import type { Container } from 'tsparticles-engine'
+import type { Container } from '@tsparticles/engine'
 const options = {
   fullScreen: {
     enable: true,
-    zIndex: -1
+    zIndex: -50
   },
   background: {
     color: {
@@ -225,7 +228,7 @@ const options = {
 
 const onLoad = (container: Container) => {
   container.pause();
-  setTimeout(() => container.play(), 0)
+  setTimeout(() => container.play(), 2000)
 }
 
 </script>

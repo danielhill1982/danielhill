@@ -17,7 +17,7 @@ date: ''
 - Good Old Games
 - Logitech G
 - OBS Studio
-- Project Cars 3
+- Project Cars
 - Steam
 - Turn 10 Studios
 - Ubisoft
@@ -82,12 +82,12 @@ date: ''
 - Figma
 - Github
 - Gsap
-- Node.js
+- Nodejs
 - Nuxt
 - OpenAI
 - PrelineUI
 - Mp3tag
-- Tailwindcss
+- TailwindCSS
 - Vercel
 - Visualstudio Code
 - Windows 11
@@ -101,10 +101,9 @@ date: ''
 - Apple
 - Bundesagentur für Arbeit
 - Creative Commons
-- DHL
+- Deutsche Post DHL
 - Design Made In Germany
 - Deutsche Bahn
-- Deutsche Post
 - Deutsche Rentenversicherung
 - Edeka
 - Landkreis Sonneberg
