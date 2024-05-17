@@ -1,6 +1,6 @@
 <template>
-
-<NuxtParticles id="tsparticles" :options="options" @load="onLoad" />
+<div>
+  <NuxtParticles id="tsparticles" :options="options" @load="onLoad" />
   
   <div id="cursor-follow">
     <span></span>
@@ -13,7 +13,7 @@
   </div>
 
   <div style="max-width:720px; margin-left:auto; margin-right: auto;">
-
+    
     <header>
       <p style="text-align: right;">-</p>
       <div class="text-wrapper">
@@ -42,12 +42,14 @@
 
       </canvas>
     </header>
+    
     <main>
       <div class="cornerbox move">
         <NuxtLoadingIndicator />
         <NuxtPage />
       </div>
     </main>
+  
     <footer>
       <div style="text-align: right; margin-bottom: 20px;">
         <NuxtLink to="/" alt="" title="">Back</NuxtLink> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
@@ -106,10 +108,42 @@
       <div style="text-align: right;"><img src="/arrow.png" width="48px" height="48px" alt="" title="" /></div>
       <p style="text-align: right;">-</p>
     </footer>
+
   </div>
+
+
+</div>
 </template>
 
 <script setup lang="ts">
+import type { Container } from '@tsparticles/engine';
+
+const options = {
+fullScreen: {
+  enable: true,
+  zindex: -50,
+},
+particles: {
+  color: {
+    value: "#6EC332"
+  },
+  links: {
+    color: "#EBFFE6",
+    enable: true
+  },
+  move: {
+    enable: true
+  },
+  number: {
+    value: 40
+  }
+}
+}
+
+const onLoad = (container: Container) => {
+container.pause();
+setTimeout(() => container.play(), 1000)
+}
 
 import { gsap } from 'gsap';
 import { TextPlugin } from 'gsap/TextPlugin';
@@ -197,39 +231,6 @@ onMounted(() => {
   timeline.to(".hero-text", { opacity: 0, delay: 4 }, "+=1");
 
 });
-
-import type { Container } from '@tsparticles/engine'
-const options = {
-  fullScreen: {
-    enable: true,
-    zIndex: -1
-  },
-  background: {
-    color: {
-      value: '#0A0F0F'
-    }
-  },
-  particles: {
-    color: {
-      value: "#6EC332"
-    },
-    links: {
-      color: "#EBFFE6",
-      enable: true
-    },
-    move: {
-      enable: true
-    },
-    number: {
-      value: 40
-    }
-  }
-}
-
-const onLoad = (container: Container) => {
-  container.pause();
-  setTimeout(() => container.play(), 0)
-}
 
 </script>
 
