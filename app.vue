@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <template>
 <div>
   <NuxtParticles id="tsparticles" :options="options" @load="onLoad" />
@@ -315,6 +316,8 @@ a:hover {
 
 </style>
  
+=======
+>>>>>>> 6a02643 (bla)
 <script setup lang="ts">
 
 <<<<<<< HEAD
@@ -323,42 +326,49 @@ import { gsap } from "gsap";
 
 onMounted(() => {
 
-const heroOverlay = document.querySelector(".hero-overlay");
-const heroOverlayHeading = document.querySelector("#hero-overlay-heading");
-var tl = gsap.timeline();
-tl.from("#hero-overlay-line", {
-  duration: 5,
-  scaleX: 0,
-  transformOrigin: "right center",
-});
-tl.from(heroOverlayHeading, {
-  duration: 1.2,
-  opacity: 0,
-  y: 30,
-  transformOrigin: "bottom",
-  ease: "back",
-});
-tl.to(heroOverlay,{
+  const heroOverlay = document.querySelector(".hero-overlay");
+  const heroOverlayHeading = document.querySelector("#hero-overlay-heading");
+  var tl = gsap.timeline();
+  tl.from("#hero-overlay-line", {
+    duration: 5,
+    scaleX: 0,
+    transformOrigin: "right center",
+  });
+  tl.from(heroOverlayHeading, {
+    duration: 1.2,
+    opacity: 0,
+    y: 30,
+    transformOrigin: "bottom",
+    ease: "back",
+  });
+  tl.to(heroOverlay, {
     duration: 1.5,
     yPercent: 0,
-    height:0,
+    height: 0,
     transformOrigin: "bottom"
   });
-tl.to(heroOverlayHeading,{
+  tl.to(heroOverlayHeading, {
     duration: 1.5,
-    autoAlpha:0
-  },"<");
-tl.to("#hero-overlay-line", {
-    autoAlpha:0
-  },"<");
+    autoAlpha: 0
+  }, "<");
+  tl.to("#hero-overlay-line", {
+    autoAlpha: 0
+  }, "<");
 
-  
-gsap.to(".visi", {opacity: 1, delay: 0.5} );
+
+  gsap.to(".visi", { opacity: 1, delay: 0.5 });
 });
 >>>>>>> 3568eff (bla)
 </script>
 
 <style>
+<<<<<<< HEAD
+=======
+* {
+  margin: 0;
+}
+
+>>>>>>> 6a02643 (bla)
 html {
   margin: 0;
   background: url("https://picsum.photos/3840/2160?random");
@@ -372,12 +382,18 @@ body {
   margin: 0;
 }
 
+<<<<<<< HEAD
 .textbg {
   text-align: right;
   width: 33.3%;
   background-color: white;
   margin-top: 6rem;
   margin-left: 0;
+=======
+.base {
+  height: 100vh;
+
+>>>>>>> 6a02643 (bla)
 }
 
 <<<<<<< HEAD
@@ -393,9 +409,14 @@ body {
   background-size: cover;
   color: black;
   position: absolute;
+<<<<<<< HEAD
   z-index:100;
   inset:0;
 >>>>>>> 7327178 (bla)
+=======
+  z-index: 100;
+  inset: 0;
+>>>>>>> 6a02643 (bla)
 }
 
 <<<<<<< HEAD
@@ -407,33 +428,33 @@ body {
     </div>
 =======
 .hero {
-  position:relative;
-  z-index:10;
+  position: relative;
+  z-index: 10;
   color: #fff;
   background-color: rgb(0, 0, 0, 0.75);
 }
 
 .heading-primary {
-  padding-top:40vh;
-  text-align:center;
+  padding-top: 40vh;
+  text-align: center;
   font-size: 50px;
 }
 
 #hero-overlay-heading {
-  font-weight:700;
+  font-weight: 700;
 }
 
 .line {
   width: 300px;
   height: 10px;
   background: white;
-  margin-top:30px;
+  margin-top: 30px;
   margin-inline: auto;
 
 }
 
 #hero-overlay-line {
-  background:black;
+  background: black;
 }
 
 .visi {
@@ -445,14 +466,15 @@ body {
   <div class="visi">
     <div class="hero base">
 
-<h1 id="hero-heading" class="heading-primary">
-  A new personal website is <br>being created here.
-</h1>
-<div id="hero-line" class="line"></div>
+      <h1 id="hero-heading" class="heading-primary">
+        A new personal website is <br>being created here.
+      </h1>
+      <div id="hero-line" class="line"></div>
 
-</div>
-<div class="hero-overlay base">
+    </div>
+    <div class="hero-overlay base">
 
+<<<<<<< HEAD
 <h1 id="hero-overlay-heading" class="heading-primary">
   A new personal website is <br>being created here.
 </h1>
@@ -461,3 +483,12 @@ body {
 </div>
 >>>>>>> 3568eff (bla)
 </template> 
+=======
+      <h1 id="hero-overlay-heading" class="heading-primary">
+        A new personal website is <br>being created here.
+      </h1>
+      <div id="hero-overlay-line" class="line"></div>
+    </div>
+  </div>
+</template>
+>>>>>>> 6a02643 (bla)
