@@ -37,17 +37,19 @@
             d="m21 7.5-2.25-1.313M21 7.5v2.25m0-2.25-2.25 1.313M3 7.5l2.25-1.313M3 7.5l2.25 1.313M3 7.5v2.25m9 3 2.25-1.313M12 12.75l-2.25-1.313M12 12.75V15m0 6.75 2.25-1.313M12 21.75V19.5m0 2.25-2.25-1.313m0-16.875L12 2.25l2.25 1.313M21 14.25v2.25l-2.25 1.313m-13.5 0L3 16.5v-2.25" />
         </svg>
       </h3>
-
+      
       <canvas class="stripes" style="width:310px; height: 100px;">
 
       </canvas>
     </header>
     
     <main>
+      <p style="text-align: right;">-</p>
       <div class="cornerbox move">
         <NuxtLoadingIndicator />
         <NuxtPage />
       </div>
+      <p style="text-align: left;">-</p>
     </main>
   
     <footer>
@@ -62,6 +64,7 @@
       <canvas class="stripes" style="width:310px; height: 60px;">
 
       </canvas>
+      <p style="text-align: right;">-</p>
       <p style="text-align: right;">-</p>
       <div>
         <img src="/danielhill.jpg" width="200px" height="200px" alt="" title="" style="border-radius: 9999px;" />
@@ -101,7 +104,7 @@
           <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
         </svg>
 
-        Made with <NuxtLink to="https://nuxt.com" target="_blank" alt="" title="">Nuxt</NuxtLink>
+        Made with <NuxtLink to="https://nuxt.com" target="_blank" alt="" title="">Nuxt</NuxtLink> and <NuxtLink to="https://vercel.com" target="_blank" alt="" title="">Vercel</NuxtLink>
       </p>
       <p style="text-align: right;">-</p>
       <p style="text-align: right;">-</p>
@@ -121,7 +124,7 @@ import type { Container } from '@tsparticles/engine';
 const options = {
 fullScreen: {
   enable: true,
-  zindex: -50,
+  zindex: -50
 },
 particles: {
   color: {
@@ -142,7 +145,7 @@ particles: {
 
 const onLoad = (container: Container) => {
 container.pause();
-setTimeout(() => container.play(), 1000)
+setTimeout(() => container.play(), 0)
 }
 
 import { gsap } from 'gsap';

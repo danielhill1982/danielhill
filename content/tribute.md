@@ -42,6 +42,7 @@ date: ''
 ## Mode und Lifestyle
 
 - Adidas
+- Bench
 - Boldking
 - Diesel
 - Leifheit
@@ -86,7 +87,6 @@ date: ''
 - Nuxt
 - OpenAI
 - PrelineUI
-- Mp3tag
 - TailwindCSS
 - Vercel
 - Visualstudio Code
