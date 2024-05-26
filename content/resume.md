@@ -30,8 +30,6 @@ I look forward to your comments, criticism, or questions.
 
 ### [ codepen ](https://codepen.io/danielhill1982)
 
-### [ vercel ](https://danielhill.vercel.app)
-
 ### [ discord ](https://discord.gg/qSYNdQvrk9)
 
 ### [ github ](http://github.com/danielhill1982)
@@ -42,3 +40,10 @@ I look forward to your comments, criticism, or questions.
 
 ### [ paypal ](http://paypal.com/paypalme/danielhill1982)
 
+//
+
+## Websites
+
+### [ danielhill1982.github.io ](http://danielhill1982.github.io)
+
+### [ danielhill.vercel.app ](https://danielhill.vercel.app)
