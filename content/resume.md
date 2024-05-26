@@ -24,19 +24,21 @@ I am a passionated but pensionated media designer because my health is not 100%.
 
 I look forward to your comments, criticism, or questions.
 
+//
+
 ## Public Online Profiles
 
-[ codepen ](https://codepen.io/danielhill1982)
+### [ codepen ](https://codepen.io/danielhill1982)
 
-[ vercel ](https://danielhill.vercel.app)
+### [ vercel ](https://danielhill.vercel.app)
 
-[ discord ](https://discord.gg/qSYNdQvrk9)
+### [ discord ](https://discord.gg/qSYNdQvrk9)
 
-[ github ](http://github.com/danielhill1982)
+### [ github ](http://github.com/danielhill1982)
 
-[ good old games ](https://gog.com/u/schwuppi1982)
+### [ good old games ](https://gog.com/u/schwuppi1982)
 
-[ steam ](https://steamcommunity.com/id/danielhill1982/)
+### [ steam ](https://steamcommunity.com/id/danielhill1982/)
 
-[ paypal ](http://paypal.com/paypalme/danielhill1982)
+### [ paypal ](http://paypal.com/paypalme/danielhill1982)
 
