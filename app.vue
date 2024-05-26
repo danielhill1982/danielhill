@@ -1,5 +1,6 @@
 <template>
   <div>
+    <NuxtLoadingIndicator />
     <NuxtParticles id="tsparticles" :options="options" @load="onLoad" />
 
     <div id="cursor-follow">
@@ -46,7 +47,6 @@
       <main>
         <p style="text-align: right;">-</p>
         <div class="cornerbox move">
-          <NuxtLoadingIndicator />
           <NuxtPage />
         </div>
         <p style="text-align: left;">-</p>

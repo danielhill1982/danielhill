@@ -4,7 +4,7 @@ description: 'Discover the world of Daniel Hill’s design solutions. Offering c
 date: ''
 ---
 
-# Legal Policy
+# Privacy Policy
 
 ## Imprint
 

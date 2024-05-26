@@ -4,14 +4,16 @@ description: 'Discover the world of Daniel Hill’s design solutions. Offering c
 date: ''
 ---
 
-### 01 [Service](/service)
 
-### 02 [About](/about)
 
-### 03 [Resume](/resume)
+### 01 [About](/about/)
 
-### 04 [Biography](/biography)
+### 02 [Service](/service/)
 
-### 05 [Tribute](/tribute)
+### 03 [Biography](/biography/)
 
-### 06 [Legal Policy](/legal)
+### 04 [Resume](/resume/)
+
+### 05 [Tribute](/tribute/)
+
+### 06 [Privacy Policy](/privacy_policy/)
