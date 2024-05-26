@@ -177,14 +177,17 @@ onMounted(() => {
 
   gsap.to(".floating-element", {
     duration: 0.5,
-    scale: 0.75,
+    rotation: 180,
+    x: 25,
+    scale: 0.50,
     yoyo: true,
     repeat: -1,
-    ease: 'power1.inOut'
+    ease: 'power1.inOut',
+    repeatDelay: 0.5
   });
 
   gsap.fromTo(".blink", {
-    opacity: 0.5
+    opacity: 1
   }, {
     duration: 0.5,
     opacity: 1,
@@ -294,7 +297,7 @@ a:hover {
       #6EC332 0.5rem,
       #6EC332 1rem);
   background-size: 400% 400%;
-  animation: barberpole 20s linear infinite;
+  animation: barberpole 40s linear infinite;
 }
 
 @keyframes barberpole {
