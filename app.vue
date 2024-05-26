@@ -1,6 +1,8 @@
 <template>
   <div>
+    
     <NuxtLoadingIndicator />
+
     <NuxtParticles id="tsparticles" :options="options" @load="onLoad" />
 
     <div id="cursor-follow">
