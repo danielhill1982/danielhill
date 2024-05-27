@@ -38,8 +38,6 @@ I look forward to your comments, criticism, or questions.
 
 ### [ steam ](https://steamcommunity.com/id/danielhill1982/)
 
-### [ paypal ](http://paypal.com/paypalme/danielhill1982)
-
 //
 
 ## Websites

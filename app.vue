@@ -69,7 +69,7 @@
         <p style="text-align: right;">-</p>
         <p style="text-align: right;">-</p>
         <div>
-          <img src="/danielhill.jpg" width="200px" height="200px" alt="" title="" style="border-radius: 9999px;" />
+          <NuxtPicture src="/loser.jpg" width="200px" height="200px" alt="" title="" style="border-radius: 9999px;" />
         </div>
 
         <p><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
