@@ -111,6 +111,15 @@
         </p>
         <p style="text-align: right;">-</p>
         <p style="text-align: right;">-</p>
+        <canvas class="stripes" style="width:310px; height: 100px;"></canvas>
+        <div style="margin-top: 2em; margin-bottom: 2em;">
+          <audio controls style="background-color: black; width: 310px;">
+            <source src="/Der Dritte Raum - Hale Bopp (Ricardo Villalobos Remix).mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+          </audio>
+        </div>
+        <p style="text-align: right;">-</p>
+        <p style="text-align: right;">-</p>
         <div style="text-align: right;"><img src="/arrow.png" width="48px" height="48px" alt="" title="" /></div>
         <p style="text-align: right;">-</p>
       </footer>
