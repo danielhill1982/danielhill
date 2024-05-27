@@ -3,10 +3,7 @@ export default defineNuxtConfig({
 
   devtools: { enabled: true },
 
-  modules: [
-    '@nuxt/content',
-    'nuxt-particles'
-  ],
+  modules: ['@nuxt/content', 'nuxt-particles', "@nuxt/image"],
 
   content: {
     markdown: {

@@ -69,7 +69,8 @@
         <p style="text-align: right;">-</p>
         <p style="text-align: right;">-</p>
         <div>
-          <NuxtPicture src="/loser.jpg" width="200px" height="200px" alt="" title="" style="border-radius: 9999px;" />
+          <NuxtPicture format="png" src="/loser.png" width="200px" height="200px" alt="" title="" :imgAttrs="{style:'border-radius: 9999px;'}" />
+          
         </div>
 
         <p><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
@@ -115,6 +116,10 @@
         <div style="margin-top: 2em; margin-bottom: 2em;">
           <audio controls style="background-color: black; width: 310px;">
             <source src="/Der Dritte Raum - Hale Bopp (Ricardo Villalobos Remix).mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+          </audio>
+          <audio controls style="background-color: black; width: 310px;">
+            <source src="/Röyksopp - Forsaken Cowboy.mp3" type="audio/mpeg">
             Your browser does not support the audio tag.
           </audio>
         </div>
