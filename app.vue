@@ -118,10 +118,7 @@
             <source src="/Der Dritte Raum - Hale Bopp (Ricardo Villalobos Remix).mp3" type="audio/mpeg">
             Your browser does not support the audio tag.
           </audio>
-          <audio controls style="background-color: black; width: 310px;">
-            <source src="/Röyksopp - Forsaken Cowboy.mp3" type="audio/mpeg">
-            Your browser does not support the audio tag.
-          </audio>
+          
         </div>
         <p style="text-align: right;">-</p>
         <p style="text-align: right;">-</p>
