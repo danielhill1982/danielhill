@@ -30,8 +30,6 @@ I look forward to your comments, criticism, or questions.
 
 ### [ codepen ](https://codepen.io/danielhill1982)
 
-### [ discord ](https://discord.gg/qSYNdQvrk9)
-
 ### [ github ](http://github.com/danielhill1982)
 
 ### [ good old games ](https://gog.com/u/schwuppi1982)
