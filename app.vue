@@ -69,7 +69,7 @@
         <p style="text-align: right;">-</p>
         <p style="text-align: right;">-</p>
         <div>
-          <NuxtPicture format="png" src="/current.jpg" width="200px" height="200px" alt="" title="" :imgAttrs="{style:'border-radius: 50%;'}" />
+          <NuxtPicture format="jpg" src="/current.jpg" width="200px" height="200px" alt="" title="" :imgAttrs="{style:'border-radius: 50%;'}" />
           
         </div>
 
