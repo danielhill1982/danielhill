@@ -1,5 +1,7 @@
 <template>
-  <div style="margin-left:20px; margin-right: 20px;">
+  <div style="margin:40px;">
+
     <ContentDoc />
+
   </div>
 </template>
