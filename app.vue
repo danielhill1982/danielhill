@@ -133,6 +133,33 @@
 </template>
 
 <script setup lang="ts">
+
+useSeoMeta({
+  title: 'Website of Daniel Hill - Designing Solutions: Consultation, Logos, UI/UX, Software Development.',
+  description: 'Discover the world of Daniel Hill’s design solutions. Offering consultation, logo creation, UI/UX design, and software development services tailored to your needs. Explore my site to see how I can transform your ideas into reality.',
+  ogTitle: 'Website of Daniel Hill - Designing Solutions: Consultation, Logos, UI/UX, Software Development.',
+  ogDescription: 'Discover the world of Daniel Hill’s design solutions. Offering consultation, logo creation, UI/UX design, and software development services tailored to your needs. Explore my site to see how I can transform your ideas into reality.',
+  ogUrl: 'danielhill.vercel.app',
+  ogImage: '',
+  twitterCard: 'summary',
+  twitterTitle: 'Website of Daniel Hill - Designing Solutions: Consultation, Logos, UI/UX, Software Development.',
+  twitterDescription: 'Discover the world of Daniel Hill’s design solutions. Offering consultation, logo creation, UI/UX design, and software development services tailored to your needs. Explore my site to see how I can transform your ideas into reality.'
+}),
+
+
+  useHead({
+    htmlAttrs: {
+      lang: 'en'
+    },
+
+    title: 'Website of Daniel Hill - Designing Solutions: Consultation, Logos, UI/UX, Software Development.',
+
+    meta: [
+      { name: 'title', content: 'Website of Daniel Hill - Designing Solutions: Consultation, Logos, UI/UX, Software Development.' },
+      { name: 'description', content: 'Discover the world of Daniel Hill’s design solutions. Offering consultation, logo creation, UI/UX design, and software development services tailored to your needs. Explore my site to see how I can transform your ideas into reality.' }
+    ]
+  })
+
 import type { Container } from '@tsparticles/engine';
 
 const options = {
