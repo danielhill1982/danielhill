@@ -32,9 +32,9 @@ I look forward to your comments, criticism, or questions.
 
 ### [ github ](http://github.com/danielhill1982)
 
-### [ good old games ](https://gog.com/u/schwuppi1982)
+### [ good old games ](https://gog.com/u/danielhill1982)
 
-### [ steam ](https://steamcommunity.com/id/danielhill1982/)
+### [ steam ](https://steamcommunity.com/id/danielhill1982)
 
 //
 
