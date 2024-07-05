@@ -24,6 +24,7 @@ I am a passionated but pensionated media designer because my health is not 100%.
 
 I look forward to your comments, criticism, or questions.
 
+
 //
 
 ## Public Online Profiles
@@ -35,6 +36,7 @@ I look forward to your comments, criticism, or questions.
 ### [ good old games ](https://gog.com/u/danielhill1982)
 
 ### [ steam ](https://steamcommunity.com/id/danielhill1982)
+
 
 //
 
