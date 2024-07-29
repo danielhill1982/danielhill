@@ -13,7 +13,3 @@ date: ''
 ### 03 [Biography](/biography/)
 
 ### 04 [Resume](/resume/)
-
-### 05 [Tribute](/tribute/)
-
-### 06 [Privacy Policy](/privacy_policy/)
