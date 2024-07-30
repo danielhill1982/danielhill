@@ -113,7 +113,7 @@
         <p style="text-align: right;">-</p>
         <p style="text-align: right;">-</p>
         <canvas class="stripes" style="width:310px; height: 100px;"></canvas>
-        <p><NuxtLink to="/privacy_policy/" target="_blank" alt="" title="">Privacy Policy</NuxtLink></p>
+        <p><NuxtLink to="/privacy_policy/" alt="" title="">Privacy Policy</NuxtLink></p>
         <p style="text-align: right;">-</p>
         <p style="text-align: right;">-</p>
         <div style="text-align: right;"><img src="/arrow.png" width="48px" height="48px" alt="" title="" /></div>
